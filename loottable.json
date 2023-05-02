@@ -184,6 +184,14 @@
     "gold":{"amount":21,"chance":96},
     "rolls":1
 }
+,
+{
+    "name":"Lich (High Roller Misc)",
+    "Golden Key":5,
+    "Skull Key":5,
+    "gold":{"amount":22,"chance":90},
+    "rolls":1
+}
 
 
 
