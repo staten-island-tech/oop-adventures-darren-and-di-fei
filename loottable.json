@@ -176,7 +176,179 @@
     },
     "nothing":0.0016,
     "rolls":3
-},
+    },
+    {"name":"Lich (elite)",
+    "Legendary":{
+        "Adventurer Boots":0.8823,
+        "Armet":0.8823,
+        "Arming Sword":0.8823,
+        "Badger Pendant":0.8823,
+        "Bardiche":0.8823,
+        "Battle Axe":0.8823,
+        "Buckler":0.8823,
+        "Castillon Dagger":0.8823,
+        "Chaperon":0.8823,
+        "Cloth Pants":0.8823,
+        "Crossbow":0.8823,
+        "Crystal Ball":0.8823,
+        "Dark Plate Armor":0.8823,
+        "Double Axe":0.8823,
+        "Doublet":0.8823,
+        "Falchion":0.8823,
+        "Felling Axe":0.8823,
+        "Fine Cuirass":0.8823,
+        "Flanged Mace":0.8823,
+        "Fox Pendant":0.8823,
+        "Frock":0.8823,
+        "Gjermundbu":0.8823,
+        "Halberd":0.8823,
+        "Hatchet":0.8823,
+        "Heater Shield":0.8823,
+        "Heavy Boots":0.8823,
+        "Heavy Gauntlet":0.8823,
+        "Heavy Leather Leggings":0.8823,
+        "Horsemans Axe":0.8823,
+        "Kettle Hat":0.8823,
+        "Laced Turnshoe":0.8823,
+        "Leather Cap":0.8823,
+        "Leather Gloves":0.8823,
+        "Leather Leggings":0.8823,
+        "Lightfoot Boots":0.8823,
+        "Longsword":0.8823,
+        "Loose Trousers":0.8823,
+        "Marauder Outfit":0.8823,
+        "Morning Star":0.8823,
+        "Mystic Vestments":0.8823,
+        "Necklace of Peace":0.8823,
+        "Northern Full Tunic":0.8823,
+        "Old Shoes":0.8823,
+        "Oracle Robe":0.8823,
+        "Ox Pendant":0.8823,
+        "Padded Leggings":0.8823,
+        "Padded Tunic":0.8823,
+        "Pavise":0.8823,
+        "Plate Boots":0.8823,
+        "Ranger Hood":0.8823,
+        "Rapier":0.8823,
+        "Rat Pendant":0.8823,
+        "Rawhide Gloves":0.8823,
+        "Recurve Bow":0.8823,
+        "Regal Gambeson":0.8823,
+        "Reinforced Gloves":0.8823,
+        "Ring of Courage":0.8823,
+        "Ring of Quickness":0.8823,
+        "Ring of Resolve":0.8823,
+        "Ring of Survival":0.8823,
+        "Riveted Gloves":0.8823,
+        "Rogue Cowl":0.8823,
+        "Rondel Dagger":0.8823,
+        "Round Shield":0.8823,
+        "Rugged Boots":0.8823,
+        "Spear":0.8823,
+        "Spellbook":0.8823,
+        "Survival Bow":0.8823,
+        "Templar Armor":0.8823,
+        "Visored Barbuta Helm":0.8823,
+        "Warden Outfit":0.8823,
+        "War Maul":0.8823,
+        "Windlass Crossbow":0.8823,
+        "Wizard Hat":0.8823,
+        "Wizard Shoes":0.8823,
+        "Wizard Staff":0.8823,
+        "Zweihander":0.8823,
+        "Kris Dagger":0.8823,
+        "Stiletto Dagger":0.8823,
+        "Barbuta Helm":0.8823,
+        "Quarterstaff":0.8823,
+        "Short Sword":0.8823,
+    },
+    "Unique":{
+        "Adventurer Boots":0.2941,
+        "Armet":0.2941,
+        "Arming Sword":0.2941,
+        "Badger Pendant":0.2941,
+        "Bardiche":0.2941,
+        "Battle Axe":0.2941,
+        "Buckler":0.2941,
+        "Castillon Dagger":0.2941,
+        "Chaperon":0.2941,
+        "Cloth Pants":0.2941,
+        "Crossbow":0.2941,
+        "Crystal Ball":0.2941,
+        "Dark Plate Armor":0.2941,
+        "Double Axe":0.2941,
+        "Doublet":0.2941,
+        "Falchion":0.2941,
+        "Felling Axe":0.2941,
+        "Fine Cuirass":0.2941,
+        "Flanged Mace":0.2941,
+        "Fox Pendant":0.2941,
+        "Frock":0.2941,
+        "Gjermundbu":0.2941,
+        "Halberd":0.2941,
+        "Hatchet":0.2941,
+        "Heater Shield":0.2941,
+        "Heavy Boots":0.2941,
+        "Heavy Gauntlet":0.2941,
+        "Heavy Leather Leggings":0.2941,
+        "Horsemans Axe":0.2941,
+        "Kettle Hat":0.2941,
+        "Laced Turnshoe":0.2941,
+        "Leather Cap":0.2941,
+        "Leather Gloves":0.2941,
+        "Leather Leggings":0.2941,
+        "Lightfoot Boots":0.2941,
+        "Longsword":0.2941,
+        "Loose Trousers":0.2941,
+        "Marauder Outfit":0.2941,
+        "Morning Star":0.2941,
+        "Mystic Vestments":0.2941,
+        "Necklace of Peace":0.2941,
+        "Northern Full Tunic":0.2941,
+        "Old Shoes":0.2941,
+        "Oracle Robe":0.2941,
+        "Ox Pendant":0.2941,
+        "Padded Leggings":0.2941,
+        "Padded Tunic":0.2941,
+        "Pavise":0.2941,
+        "Plate Boots":0.2941,
+        "Ranger Hood":0.2941,
+        "Rapier":0.2941,
+        "Rat Pendant":0.2941,
+        "Rawhide Gloves":0.2941,
+        "Recurve Bow":0.2941,
+        "Regal Gambeson":0.2941,
+        "Reinforced Gloves":0.2941,
+        "Ring of Courage":0.2941,
+        "Ring of Quickness":0.2941,
+        "Ring of Resolve":0.2941,
+        "Ring of Survival":0.2941,
+        "Riveted Gloves":0.2941,
+        "Rogue Cowl":0.2941,
+        "Rondel Dagger":0.2941,
+        "Round Shield":0.2941,
+        "Rugged Boots":0.2941,
+        "Spear":0.2941,
+        "Spellbook":0.2941,
+        "Survival Bow":0.2941,
+        "Templar Armor":0.2941,
+        "Visored Barbuta Helm":0.2941,
+        "Warden Outfit":0.2941,
+        "War Maul":0.2941,
+        "Windlass Crossbow":0.2941,
+        "Wizard Hat":0.2941,
+        "Wizard Shoes":0.2941,
+        "Wizard Staff":0.2941,
+        "Zweihander":0.2941,
+        "Kris Dagger":0.2941,
+        "Stiletto Dagger":0.2941,
+        "Barbuta Helm":0.2941,
+        "Quarterstaff":0.2941,
+        "Short Sword":0.2941,
+    },
+    "nothing":0.0016,
+    "rolls":3
+    },
 {
     "name":"Lich (Misc)",
     "Golden Key":2,
@@ -192,7 +364,7 @@
     "gold":{"amount":22,"chance":90},
     "rolls":1
 }
-
+,
 {
     "name":"Ghost King(Default)",
      "uncommon":{
@@ -528,7 +700,7 @@
         
     }
     ,
-    "nothing":0.0016,
+    "nothing":0,
     "rolls":3
 },{
     "name":"Ghost King(Common)",
@@ -698,7 +870,10 @@
         "Wizard Staff":0.2941,        
         "Zweihander":0.2941
         
-    }},
+    },
+    "nothing":0.0016,
+    "rolls":3
+},
     {
     "name":"Ghost King(Elite)",
         "Legendary":{
@@ -785,91 +960,524 @@
             "Zweihander":0.8823
         },
         "Uniques":{
-            "Adventure Boots":0.8823,
-            "Armet":0.8823,
-            "Arming Sword":0.8823,
-            "Badger Pendant":0.8823,
-            "Bardiche":0.8823,
-            "Battle Axe":0.8823,
-            "Buckler":0.8823,
-            "Castillon Dagger":0.8823,
-            "Chaperon":0.8823,
-            "Cloth Pants":0.8823,
-            "Crossbow":0.8823,
-            "Crystal Ball":0.8823,
-            "Crystall Sword":0.8823,
-            "Dark Plate Armor":0.8823,
-            "Double Axe":0.8823,
-            "Doublet":0.8823,
-            "Falchion":0.8823,
-           "Felling Axe":0.8823,
-            "Fine Cuirass":0.8823,
-            "Flanged Mace":0.8823,
-            "Fox Pendant":0.8823,
-            "Frock":0.8823,
-            "Gjermundbu":0.8823,
-            "Halberd":0.8823,
-            "Hatchet":0.8823,
-            "Heater Shield":0.8823,
-            "Heavy Boots":0.8823,
-            "Heavy Gauntlet":0.8823,
-            "Heavy Leather Leggings":0.8823,
-            "Horseman Axe":0.8823,
-            "Kettle Hat":0.8823,
-            "Laced Turnshoe":0.8823,
-            "Leather Cap":0.8823,
-            "Leather Gloves":0.8823,
-            "Leather Leggings" :0.8823,
-            "Lightfoot Boots":0.8823,
-            "Longbow":0.8823,
-            "Longsword":0.8823,
-            "Loose Trousers":0.8823,
-            "Marauder Outfit":0.8823,
-            "Morning Star":0.8823,
-            "Mystic Vestments":0.8823,
-            "Necklace of Peace":0.8823,
-            "Northern Full Tunic":0.8823,
-            "Old Shoes":0.8823,
-            "Oracle Robe":0.8823,
-            "Padded Leggings":0.8823,
-            "Padded Tunic":0.8823,
-            "Ox Pendant":0.8823,
-            "Pavise":0.8823,
-            "Plate Boots":0.8823,
-            "Plate Pants":0.8823,
-            "Ranger Hood":0.8823,
-            "Rapier":0.8823,
-            "Rat Pendant":0.8823,
-            "Rawhide Gloves":0.8823,
-            "Recurve Bow":0.8823,
-            "Regal Gambeson":0.8823,
-            "Reinforced Gloves":0.8823,
-           " Ring of Courage":0.8823,
-            "Ring of Quickness":0.8823,
-            "Ring of Resolve":0.8823,
-            "Ring of Survival":0.8823,
-           " Riveted Gloves":0.8823,
-            "Rouge Cowl":0.8823,
-            "Rondel Dagger":0.8823,
-            "Round Shield":0.8823,
-            "Rugged Boots":0.8823,
-            "Spear":0.8823,
-            "Spellbook":0.8823,
-            "Survivial Bow":0.8823,
-            "Templar Armor":0.8823,
-            "Visored Barbuta Helm":0.8823,
-            "Barbuta Helm":0.8823,
-            "Warden Outfit":0.8823,
-            "War Maul":0.8823,
-            "Windlass Crossbow":0.8823,
-            "Wizard Hat":0.8823,
-            "Wizard Shoes":0.8823,
-            "Wizard Staff":0.8823,        
-            "Zweihander":0.8823
+            "Adventure Boots":0.2941,
+            "Armet":0.2941,
+            "Arming Sword":0.2941,
+            "Badger Pendant":0.2941,
+            "Bardiche":0.2941,
+            "Battle Axe":0.2941,
+            "Buckler":0.2941,
+            "Castillon Dagger":0.2941,
+            "Chaperon":0.2941,
+            "Cloth Pants":0.2941,
+            "Crossbow":0.2941,
+            "Crystal Ball":0.2941,
+            "Crystall Sword":0.2941,
+            "Dark Plate Armor":0.2941,
+            "Double Axe":0.2941,
+            "Doublet":0.2941,
+            "Falchion":0.2941,
+           "Felling Axe":0.2941,
+            "Fine Cuirass":0.2941,
+            "Flanged Mace":0.2941,
+            "Fox Pendant":0.2941,
+            "Frock":0.2941,
+            "Gjermundbu":0.2941,
+            "Halberd":0.2941,
+            "Hatchet":0.2941,
+            "Heater Shield":0.2941,
+            "Heavy Boots":0.2941,
+            "Heavy Gauntlet":0.2941,
+            "Heavy Leather Leggings":0.2941,
+            "Horseman Axe":0.2941,
+            "Kettle Hat":0.2941,
+            "Laced Turnshoe":0.2941,
+            "Leather Cap":0.2941,
+            "Leather Gloves":0.2941,
+            "Leather Leggings" :0.2941,
+            "Lightfoot Boots":0.2941,
+            "Longbow":0.2941,
+            "Longsword":0.2941,
+            "Loose Trousers":0.2941,
+            "Marauder Outfit":0.2941,
+            "Morning Star":0.2941,
+            "Mystic Vestments":0.2941,
+            "Necklace of Peace":0.2941,
+            "Northern Full Tunic":0.2941,
+            "Old Shoes":0.2941,
+            "Oracle Robe":0.2941,
+            "Padded Leggings":0.2941,
+            "Padded Tunic":0.2941,
+            "Ox Pendant":0.2941,
+            "Pavise":0.2941,
+            "Plate Boots":0.2941,
+            "Plate Pants":0.2941,
+            "Ranger Hood":0.2941,
+            "Rapier":0.2941,
+            "Rat Pendant":0.2941,
+            "Rawhide Gloves":0.2941,
+            "Recurve Bow":0.2941,
+            "Regal Gambeson":0.2941,
+            "Reinforced Gloves":0.2941,
+           " Ring of Courage":0.2941,
+            "Ring of Quickness":0.2941,
+            "Ring of Resolve":0.2941,
+            "Ring of Survival":0.2941,
+           " Riveted Gloves":0.2941,
+            "Rouge Cowl":0.2941,
+            "Rondel Dagger":0.2941,
+            "Round Shield":0.2941,
+            "Rugged Boots":0.2941,
+            "Spear":0.2941,
+            "Spellbook":0.2941,
+            "Survivial Bow":0.2941,
+            "Templar Armor":0.2941,
+            "Visored Barbuta Helm":0.2941,
+            "Barbuta Helm":0.2941,
+            "Warden Outfit":0.2941,
+            "War Maul":0.2941,
+            "Windlass Crossbow":0.2941,
+            "Wizard Hat":0.2941,
+            "Wizard Shoes":0.2941,
+            "Wizard Staff":0.2941,        
+            "Zweihander":0.2941
+            
+        },
+        "nothing":0.0016,
+        "rolls":3
+        },
+        {
+            "name":"Ghost King (Misc)",
+            "Golden Key":2,
+            "Skull Key":2,
+            "gold":{"amount":21,"chance":96},
+            "rolls":1
+        },
+        {
+            "name":"Ghost King (High Roller Misc)",
+            "Golden Key":5,
+            "Skull Key":5,
+            "gold":{"amount":22,"chance":90},
+            "rolls":1
         }
-
-
-
-        
+    {"name": "Wraith(Common)",
+    "Common":{
+        "Arming Sword":0.8571,
+        "Buckler":0.8571,
+        "Castillon Dagger":0.8571,
+        "Cloth Pants":0.8571,
+        "Crystal Ball":0.8571,
+        "Crystal Sword":0.8571,
+        "Doublet":0.8571,
+        "Falchion":0.8571,
+        "Flanged Mace":0.8571,
+        "Frock":0.8571,
+        "Hatchet":0.8571,
+        "Heater Shield":0.8571,
+        "Heavy Leather Leggings":0.8571,
+        "Horseman Axe":0.8571,
+        "Leather Leggings":0.8571,
+        "Loose Trousers":0.8571,
+        "Marauder Outfi":0.8571,
+        "Morning Star":0.8571,
+        "Mystic Vestment":0.8571,
+        "Oracle Robe":0.8571,
+        "Padded Leggings":0.8571,
+        "Plate Pants":0.8571,
+        "Rapier":0.8571,
+        "Recurve Bow":0.8571,
+        "Regal Gambeson":0.8571,
+        "Rondel Dagger":0.8571,
+        "Round Shield":0.8571,
+        "Spellbook":0.8571,
+        "Survival Bow":0.8571,
+        "Warden Outfit":0.8571,
+        "Kris Dagger":0.8571,
+        "Stiletto Dagger":0.8571,
+        "Quarterstaff":0.8571,
+        "Short Sword":0.8571,
+    },
+    "Uncommon":{
+        "Arming Sword":1,
+        "Buckler":1,
+        "Castillon Dagger":1,
+        "Cloth Pants":1,
+        "Crystal Ball":1,
+        "Crystal Sword":1,
+        "Doublet":1,
+        "Falchion":1,
+        "Flanged Mace":1,
+        "Frock":1,
+        "Hatchet":1,
+        "Heater Shield":1,
+        "Heavy Leather Leggings":1,
+        "Horseman Axe":1,
+        "Leather Leggings":1,
+        "Loose Trousers":1,
+        "Marauder Outfi":1,
+        "Morning Star":1,
+        "Mystic Vestment":1,
+        "Oracle Robe":1,
+        "Padded Leggings":1,
+        "Plate Pants":1,
+        "Rapier":1,
+        "Recurve Bow":1,
+        "Regal Gambeson":1,
+        "Rondel Dagger":1,
+        "Round Shield":1,
+        "Spellbook":1,
+        "Survival Bow":1,
+        "Warden Outfit":1,
+        "Kris Dagger":1,
+        "Stiletto Dagger":1,
+        "Quarterstaff":1,
+        "Short Sword":1,
+    },
+        "Rare":{
+        "Arming Sword":0.8571,
+        "Buckler":0.8571,
+        "Castillon Dagger":0.8571,
+        "Cloth Pants":0.8571,
+        "Crystal Ball":0.8571,
+        "Crystal Sword":0.8571,
+        "Doublet":0.8571,
+        "Falchion":0.8571,
+        "Flanged Mace":0.8571,
+        "Frock":0.8571,
+        "Hatchet":0.8571,
+        "Heater Shield":0.8571,
+        "Heavy Leather Leggings":0.8571,
+        "Horseman Axe":0.8571,
+        "Leather Leggings":0.8571,
+        "Loose Trousers":0.8571,
+        "Marauder Outfi":0.8571,
+        "Morning Star":0.8571,
+        "Mystic Vestment":0.8571,
+        "Oracle Robe":0.8571,
+        "Padded Leggings":0.8571,
+        "Plate Pants":0.8571,
+        "Rapier":0.8571,
+        "Recurve Bow":0.8571,
+        "Regal Gambeson":0.8571,
+        "Rondel Dagger":0.8571,
+        "Round Shield":0.8571,
+        "Spellbook":0.8571,
+        "Survival Bow":0.8571,
+        "Warden Outfit":0.8571,
+        "Kris Dagger":0.8571,
+        "Stiletto Dagger":0.8571,
+        "Quarterstaff":0.8571,
+        "Short Sword":0.8571,
+    },
+    "Epic":{
+        "Arming Sword":0.1428,
+        "Buckler":0.1428,
+        "Castillon Dagger":0.1428,
+        "Cloth Pants":0.1428,
+        "Crystal Ball":0.1428,
+        "Crystal Sword":0.1428,
+        "Doublet":0.1428,
+        "Falchion":0.1428,
+        "Flanged Mace":0.1428,
+        "Frock":0.1428,
+        "Hatchet":0.1428,
+        "Heater Shield":0.1428,
+        "Heavy Leather Leggings":0.1428,
+        "Horseman Axe":0.1428,
+        "Leather Leggings":0.1428,
+        "Loose Trousers":0.1428,
+        "Marauder Outfi":0.1428,
+        "Morning Star":0.1428,
+        "Mystic Vestment":0.1428,
+        "Oracle Robe":0.1428,
+        "Padded Leggings":0.1428,
+        "Plate Pants":0.1428,
+        "Rapier":0.1428,
+        "Recurve Bow":0.1428,
+        "Regal Gambeson":0.1428,
+        "Rondel Dagger":0.1428,
+        "Round Shield":0.1428,
+        "Spellbook":0.1428,
+        "Survival Bow":0.1428,
+        "Warden Outfit":0.1428,
+        "Kris Dagger":0.1428,
+        "Stiletto Dagger":0.1428,
+        "Quarterstaff":0.1428,
+        "Short Sword":0.1428,
+    },
+    "nothing":0.0063,
+    "rolls":2
     }
+    {"name":"Wraith(Elite)",
+    "Uncommon":{
+
+
+    },
+    "Rare":{
+
+
+
+
+
+    },
+    "Epic":{
+
+
+
+
+
+    },
+    "Legendary":{
+
+
+
+
+
+    },
+    "nothing":0.0063,
+    "rolls":1
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
