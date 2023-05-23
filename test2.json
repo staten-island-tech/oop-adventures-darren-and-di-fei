@@ -1,0 +1,14 @@
+[{
+    "id":"Armet#Poor",
+    "name":"Armet",
+    "rarity":"Poor",
+    "slots":4
+},
+{
+    "id":"Armet#Common",
+    "name":"Armet",
+    "rarity":"Common",
+    "slots":4
+}
+
+]
