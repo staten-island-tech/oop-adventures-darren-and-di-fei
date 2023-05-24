@@ -1,12 +1,27 @@
 [{
-"name":"Small_Oak_Chest#Common",
-"items":{
-    "Armet#Poor":49.9999,
-    "Armet#Common":50.0001
+"#Poor":49.999,
+"#Common":50.001,
+"#Poor_Items":[
+    "Armet#Poor",
+    "Arming_Sword#Poor"
+],
+"#Common_Items":[
+    "Armet#Common",
+    "Arming_Sword#Common"
+],
+"#Rare_Items":[
+    "Armet#Rare",
+    "Arming_Sword#Rare"
+],
+"#Epic_Items":[
+    "Armet#Epic",
+    "Arming_Sword#Epic"
+],
+"id":"Small_Oak_Chest#Common",
+"name":"Small_Oak_Chest"
 }
 
 
 
 
-
-}]
+]
