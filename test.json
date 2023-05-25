@@ -1,6 +1,11 @@
 [{
-"#Poor":49.999,
-"#Common":50.001,
+"#Poor":35,
+"#Common":25,
+"#Uncommon":15,
+"#Rare":10,
+"#Epic":10,
+"#Legendary":5,
+
 "#Poor_Items":[
     "Armet#Poor",
     "Arming_Sword#Poor"
@@ -8,6 +13,10 @@
 "#Common_Items":[
     "Armet#Common",
     "Arming_Sword#Common"
+],
+"#Uncommon_Items":[
+    "Armet#Uncommon",
+    "Arming_Sword#Uncommon"
 ],
 "#Rare_Items":[
     "Armet#Rare",
@@ -17,8 +26,13 @@
     "Armet#Epic",
     "Arming_Sword#Epic"
 ],
+"#Legendary_Items":[
+    "Armet#Legendary",
+    "Arming_Sword#Legendary"
+],
 "id":"Small_Oak_Chest#Common",
-"name":"Small_Oak_Chest"
+"name":"Small_Oak_Chest",
+"rolls": 2 
 }
 
 

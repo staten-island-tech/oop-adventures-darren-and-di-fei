@@ -11,3 +11,4 @@ chance_3 = chance_2 - chest[0]["#Uncommon"]
 chance_4 = chance_3 - chest[0]["#Rare"]
 chance_5 = chance_4 - chest[0]["#Epic"]
 chance_6 = chance_5 - chest[0]["#Legendary"]
+
