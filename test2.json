@@ -9,6 +9,17 @@
     "name":"Armet",
     "rarity":"Common",
     "slots":4
-}
-
+},
+{
+    "id":"Armet#Rare",
+    "name":"Armet",
+    "rarity":"Rare",
+    "slots":4
+},
+{
+    "id":"Armet#Epic",
+    "name":"Armet",
+    "rarity":"Epic",
+    "slots":4
+},
 ]
