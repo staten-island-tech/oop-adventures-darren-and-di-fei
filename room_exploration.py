@@ -1,6 +1,5 @@
 interaction_object = ""
 import json 
-import room_select 
 import random
 x = open("Crypt_02_HR.json")
 map = json.load(x)
@@ -18,12 +17,15 @@ while room_find != current_room:
     room_find = map[room_find_num]["room"]
 mobs = map[room_find_num]["monster"]
 print(mobs)
+mob =  input(print("which mob do you want to fight right now?"))
 
-def fite():
-    print(mobs)
-    room_status = "cleared"
-    print(room_status)
+def fight():
+    if mob in mobs:
+        print("hi")
+    else: 
+        print("Invalid mob. Try again")
 
+fight()
 if room_status == "cleared":
     room_find_num = 1
     room_find = map[room_find_num]["room"]
