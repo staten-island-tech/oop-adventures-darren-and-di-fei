@@ -18,14 +18,14 @@ while room_find != current_room:
     room_find = map[room_find_num]["room"]
 mobs = map[room_find_num]["monster"]
 print(mobs)
-current_mob = input(("which mob do you want to fight right now?(please include HR/Common/HR2): "))
+
 
 
 def determine_mob():
     if "(HR)" in current_mob:
         current_mob1 = current_mob.replace("(HR)", '')
         HR_monsters = difficulty_monster[1]
-    for values in HR_monsters.items():
+    for keys, values in HR_monsters.items():
         values1 = str(values)
         if "Monster_Name" in values1:
             values = values1.replace("Monster_Name",current_mob1)
@@ -34,12 +34,13 @@ def determine_mob():
 
 p = True
 while p == True:
+    current_mob = input(("which mob do you want to fight right now?(please include HR/Common/HR2): "))
     if current_mob in mobs:
         determine_mob()
         p = False
-        
     else:
         print("try again, not an option")
+
 
 class Mob:
     def __init__(self,id,name,difficulty):
