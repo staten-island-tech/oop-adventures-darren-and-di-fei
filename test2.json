@@ -5,23 +5,42 @@
 "#Common_Monsters":[
     "Monster_Name#Common"
 ],
+"#Elite_Monsters":[
+    "Monster_Name#Elite"
+],
 "id":"Monster_Name(Common)",
 "name":"Monster_Name(x)",
 "rolls":1},
+
+
+
 {"#Common":5,
 "#Elite":90,
 "#Nightmare":5,
 "#Common_Monsters":[
     "Monster_Name#Common"
 ],
+"#Elite_Monsters":[
+    "Monster_Name#Elite"
+],
+"#Nightmare_Monsters":[
+    "Monster_Name#Nightmare"
+],
 "id":"Monster_Name(HR)",
 "name":"Monster_Name(x)",
 "rolls":1},
+
+
+
+
 {"#Common":0,
 "#Elite":10,
 "#Nightmare":90,
-"#Common_Monsters":[
-    "Monster_Name#Common"
+"#Elite_Monsters":[
+    "Monster_Name#Elite"
+],
+"#Nightmare_Monsters":[
+    "Monster_Name#Nightmare"
 ],
 "id":"Monster_Name(HR2)",
 "name":"Monster_Name(x)",
