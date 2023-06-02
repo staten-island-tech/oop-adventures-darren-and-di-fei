@@ -9,7 +9,7 @@ difficulty_monster = json.load(y)
 z = random.randint(0,len(map[0]["spawns"])-1)
 current_room = map[0]["spawns"][z]
 print(f"You are currently in room {current_room}")
-
+values = ""
 
 room_find_num = 1
 room_find = map[room_find_num]["room"]
@@ -31,6 +31,10 @@ def determine_mob():
             values = values1.replace("Monster_Name",current_mob1)
             print(values)
 
+
+for i in difficulty_monster:
+    if i["id"] == values:
+        print("hi")
 
 p = True
 while p == True:
