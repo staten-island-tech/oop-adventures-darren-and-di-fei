@@ -1,7 +1,7 @@
 
 import json
 import random
-chest = json.load(open("test.json"))
+chest = json.load(open("test1.json"))
 items = json.load(open("test2.json"))
 
 container_list = []

@@ -1,0 +1,32 @@
+[{
+    "#Poor":35,
+    "#Common":25,
+    "#Uncommon":15,
+    "#Rare":15,
+    "#Epic":10,
+    
+    
+    "#Poor_Items":[
+        "Adventurer_Boots#Poor",
+        "Armet#Poor"
+    ],
+    "#Common_Items":[
+        "Adventurer_Boots#Poor",
+        "Armet#Poor"
+    ],
+    "#Uncommon_Items":[
+        "Adventurer_Boots#Poor",
+        "Armet#Poor"
+    ],
+    "#Rare_Items":[
+        "Adventurer_Boots#Poor",
+        "Armet#Poor"
+    ],
+    "#Epic_Items":[
+        "Adventurer_Boots#Poor",
+        "Armet#Poor"
+    ],
+    "id":"Flat_Chest#Common",
+    "name":"Flat_Chest",
+    "rolls": 2 
+    }]
