@@ -1,0 +1,649 @@
+[{
+    "name":"Lv.1 Gnome",
+    "hp":15,
+    "damage":3,
+    "exp":1,
+    "drops":{
+        "Sharpened Pencil":1,
+        "Notebook":1,
+        "Baseball Cap":3,
+        "Nothing":95
+    },
+    "zone":"Forest - 1"
+},
+{
+    "name":"Lv.2 Gnome",
+    "hp":25,
+    "damage":5,
+    "exp":3,
+    "drops":{
+        "Sharpened Pencil":7.5,
+        "Notebook":3,
+        "Baseball Cap":6,
+        "Nothing":83.5
+    },
+    "zone":"Forest - 2"
+},
+{
+    "name":"Lv.3 Gnome",
+    "hp":40,
+    "damage":10,
+    "exp":7,
+    "drops":{
+        "Sharpened Pencil":15,
+        "Notebook":8,
+        "Baseball Cap":10,
+        "Nothing":67
+    },
+    "zone":"Forest - 3"
+},
+{
+    "name":"Lv.1 Orc",
+    "hp":75,
+    "damage":15,
+    "exp":15,
+    "drops":{
+        "Dull Knife":5,
+        "Textbook":4.5,
+        "Leather Armor":7.5,
+        "Razor Blade":0.5,
+        "Nothing":82.5
+    },
+    "zone":"Forest - 4"
+},
+{
+    "name":"Lv.2 Orc",
+    "hp":100,
+    "damage":25,
+    "exp":25,
+    "drops":{
+        "Dull Knife":9,
+        "Textbook":8,
+        "Leather Armor":12.5,
+        "Razor Blade":1.25,
+        "2x4":0.3,
+        "Golden Armor":0.5,
+        "Nothing":68.45
+    },
+    "zone":"Forest - 5"
+},
+{
+    "name":"Lv.3 Orc",
+    "hp":150,
+    "damage":40,
+    "exp":60,
+    "drops":{
+        "Razor Blade":7,
+        "2x4":1,
+        "Golden Armor":4.5,
+        "Nothing":87.5
+    },
+    "zone":"Forest - 6"
+},
+{
+    "name":"Lv.1 Goblin",
+    "hp":200,
+    "damage":100,
+    "exp":150,
+    "drops":{
+        "Wooden Club":4.5,
+        "Trash Can Lid":0.75,
+        "Chainmail Armor":1,
+        "Nothing":93.75
+    },
+    "zone":"Forest - 7"
+},
+{
+    "name":"Lv.2 Goblin",
+    "hp":500,
+    "damage":175,
+    "exp":500,
+    "drops":{
+        "Wooden Club":10,
+        "Trash Can Lid":3,
+        "Chainmail Armor":5,
+        "Kitchen Knife":0.5,
+        "Buckler":0.25,
+        "Iron Armor":1,
+        "Nothing":80.25
+    },
+    "zone":"Forest - 8"
+},
+{
+    "name":"Lv.3 Goblin",
+    "hp":750,
+    "damage":250,
+    "exp":1250,
+    "drops":{
+        "Kitchen Knife":7,
+        "Buckler":4,
+        "Iron Armor":9.5,
+        "Nothing":79.5
+    },
+    "zone":"Forest - 9"
+},
+{
+    "name":"Phuanos, God of Forest",
+    "hp":2500,
+    "damage":700,
+    "exp":15000,
+    "drops":{
+        "Chainsaw":20,
+        "Claymore":3,
+        "Netherite Sword":0.3,
+        "Buckler":30,
+        "Round Shield":6,
+        "Heater Shield":1,
+        "Diamond Armor":29.35,
+        "Netherite Armor":9.75,
+        "Steel Armor":0.6
+    },
+    "zone":"Forest - 10"
+},
+{
+    "name":"Lv.1 Shark",
+    "hp":3000,
+    "damage":750,
+    "exp":4000,
+    "drops":{
+        "Chainsaw":7,
+        "Claymore":1,
+        "Buckler":8,
+        "Round Shield":1.25,
+        "Diamond Armor":10,
+        "Netherite Armor":0.75,
+        "Nothing":72
+    },
+    "zone":"Ocean - 1"
+},
+{
+    "name":"Lv.2 Shark",
+    "hp":5000,
+    "damage":1000,
+    "exp":6000,
+    "drops":{
+        "Claymore":3,
+        "Round Shield":4,
+        "Netherite Armor":5,
+        "Nothing":88
+    },
+    "zone":"Ocean - 2"
+},
+{
+    "name":"Lv.3 Shark",
+    "hp":10000,
+    "damage":1750,
+    "exp":10000,
+    "drops":{
+        "Netherite Sword":1.5,
+        "Heater Shield":2,
+        "Steel Armor":1.25,
+        "Nothing":95.25
+    },
+    "zone":"Ocean - 3"
+},
+{
+    "name":"Lv.1 Goldfish",
+    "hp":25000,
+    "damage":3000,
+    "exp":35000,
+    "drops":{
+        "Netherite Sword":7,
+        "Heater Shield":10,
+        "Steel Armor":9,
+        "Dimmadagger":1,
+        "Pavise":2,
+        "Grey Military Vest":1.5,
+        "Nothing":69.5
+    },
+    "zone":"Ocean - 4"
+},
+{
+    "name":"Lv.2 Goldfish",
+    "hp":30000,
+    "damage":3500,
+    "exp":50000,
+    "drops":{
+        "Dimmadagger":1.5,
+        "Pavise":3,
+        "Grey Military Vest":2.25,
+        "Nothing":93.25
+    },
+    "zone":"Ocean - 5"
+},
+{
+    "name":"Lv.3 Goldfish",
+    "hp":50000,
+    "damage":5000,
+    "exp":67500,
+    "drops":{
+        "Dimmadagger":7,
+        "Pavise":10,
+        "Grey Military Vest":9,
+        "Nothing":74
+    },
+    "zone":"Ocean - 6"
+},
+{
+    "name":"Lv.1 Squid",
+    "hp":75000,
+    "damage":6000,
+    "exp":85000,
+    "drops":{
+        "Katana":7.5,
+        "Master's Dagger":1,
+        "Dark Plate Armor":10,
+        "Templar Armor":2.5,
+        "The Shield":8.5,
+        "Umbrella":2,
+        "Nothing":68.5
+    },
+    "zone":"Ocean - 7"
+},
+{
+    "name":"Lv.2 Squid",
+    "hp":85000,
+    "damage":7500,
+    "exp":100000,
+    "drops":{
+        "Master's Dagger":7.5,
+        "Tree":1,
+        "Templar Armor":10,
+        "Raincoat":2.5,
+        "Umbrella":8.5,
+        "Owner Door":2,
+        "Nothing":68.5
+    },
+    "zone":"Ocean - 8"
+},
+{
+    "name":"Lv.3 Squid",
+    "hp":100000,
+    "damage":9000,
+    "exp":150000,
+    "drops":{
+        "Tree":8,
+        "Raincoat":10,
+        "Owner Door":15,
+        "Steel Shield":1.5,
+        "Nothing":65.5
+    },
+    "zone":"Ocean - 9"
+},
+{
+    "name":"Poseidon, God of Seas",
+    "hp":350000,
+    "damage":25000,
+    "exp":2500000,
+    "drops":{
+        "Baby":1,
+        "Obsidian Greatsword":3,
+        "Fish":25,
+        "HSPV Tactical Vest":1.25,
+        "Bedrock Armor":4,
+        "Super Saiyan":30,
+        "Car":1.5,
+        "Mithril Shield":5,
+        "Cinder Block":29.25
+    },
+    "zone":"Ocean - 10"
+},
+{
+    "name":"Lv.1 Devil",
+    "hp":500000,
+    "damage":35000,
+    "exp":300000,
+    "drops":{
+        "Fish":7,
+        "Super Saiyan":5,
+        "Cinder Block":9,
+        "Nothing":79
+    },
+    "zone":"Underworld - 1"
+},
+{
+    "name":"Lv.2 Devil",
+    "hp":1000000,
+    "damage":75000,
+    "exp":550000,
+    "drops":{
+        "Big Rock":7,
+        "Blue Sapphire Shield":3,
+        "Wall":0.25,
+        "Hazmat Suit":5,
+        "Nothing":84.75
+    },
+    "zone":"Underworld - 2"
+},
+{
+    "name":"Lv.3 Devil",
+    "hp":1750000,
+    "damage":125000,
+    "exp":1000000,
+    "drops":{
+        "Wall":2,
+        "Your Mom":0.8,
+        "Explosive Ordnance Disposal Suit":1.2,
+        "Nothing":96
+    },
+    "zone":"Underworld - 3"
+},
+{
+    "name":"Lv.1 Demon",
+    "hp":4000000,
+    "damage":200000,
+    "exp":2000000,
+    "drops":{
+        "Your Mom":1.5,
+        "Explosive Ordance Disposal Suit":2,
+        "Nokia":0.03,
+        "Nothing":96.47
+    },
+    "zone":"Underworld - 4"
+},
+{
+    "name":"Lv.2 Demon",
+    "hp":10000000,
+    "damage":500000,
+    "exp":7500000,
+    "drops":{
+        "Nokia":0.1,
+        "Your Mom":7,
+        "Death Scythe":0.95,
+        "Tanktop":1.25,
+        "Nothing":90.7
+    },
+    "zone":"Underworld - 5"
+},
+{
+    "name":"Lv.3 Demon",
+    "hp":20000000,
+    "damage":1000000,
+    "exp":25000000,
+    "drops":{
+        "Nokia":1,
+        "Keyboard":0.01,
+        "Tanktop":7.5,
+        "Tuxedo":0.9,
+        "Death Scythe":5,
+        "Comically Large Spoon":0.5,
+        "Nothing":85.09
+    },
+    "zone":"Underworld - 6"
+},
+{
+    "name":"Lv.1 Centaur",
+    "hp":50000000,
+    "damage":1500000,
+    "exp":75000000,
+    "drops":{
+        "Keyboard":0.3,
+        "Tuxedo":5,
+        "Comically Large Spoon":5.7,
+        "Nothing":89
+    },
+    "zone":"Underworld - 7"
+},
+{
+    "name":"Lv.2 Centaur",
+    "hp":99999999,
+    "damage":2500000,
+    "exp":150000000,
+    "drops":{
+        "Keyboard":3,
+        "Master Ball":0.07,
+        "Ghillie Suit":2.5,
+        "Adranos Blade":3.5,
+        "Nothing":90.93
+    },
+    "zone":"Underworld - 8"
+},
+{
+    "name":"Lv.3 Centaur",
+    "hp":200000000,
+    "damage":4500000,
+    "exp":500000000,
+    "drops":{
+        "Master Ball":1,
+        "Adamantine Shield":0.25,
+        "Ghillie Suit":9,
+        "Pumpkin":0.75,
+        "Adranos Blade":8,
+        "Angela":2,
+        "Nothing":79
+    },
+    "zone":"Underworld - 9"
+},
+{
+    "name":"Hades, God of Underworld",
+    "hp":1000000000,
+    "damage":10000000,
+    "exp":15000000000,
+    "drops":{
+        "Adamantine Shield":0.05,
+        "Vibranium Shield":30,
+        "Neutron Shield":4.5,
+        "Angela":0.2,
+        "Brass Knuckles":27.5,
+        "Mr. Beast":5,
+        "Pumpkin":0.35,
+        "Light Armor":31.4,
+        "Bathrobe":1
+    },
+    "zone":"Underworld - 10"
+},
+{
+    "name":"Lv.1 Angel",
+    "hp":5000000000,
+    "damage":30000000,
+    "exp":3000000000,
+    "drops":{
+        "Mr. Beast":15,
+        "Neutron Shield":17.5,
+        "Bathrobe":12.5,
+        "Nothing":55
+    },
+    "zone":"Heaven - 1"
+},
+{
+    "name":"Lv.2 Angel",
+    "hp":15000000000,
+    "damage":100000000,
+    "exp":10000000000,
+    "drops":{
+        "Steel Chair":0.7,
+        "Spectral Cloth Armor":0.5,
+        "Lightsaber":0.65,
+        "Nothing":98.15
+    },
+    "zone":"Heaven - 2"
+},
+{
+    "name":"Lv.3 Angel",
+    "hp":50000000000,
+    "damage":250000000,
+    "exp":50000000000,
+    "drops":{
+        "Steel Chair":2,
+        "Spectral Cloth Armor":2.5,
+        "Lightsaber":3,
+        "Pie":0.09,
+        "Excalibur":0.55,
+        "Winter Jacket":0.2,
+        "Nothing":91.66
+    },
+    "zone":"Heaven - 3"
+},
+{
+    "name":"Lv.1 Demigod",
+    "hp":225000000000,
+    "damage":1000000000,
+    "exp":30000000000,
+    "drops":{
+        "Pie":1,
+        "Excalibur":4,
+        "Winter Jacket":1.25,
+        "Nothing":93.75
+    },
+    "zone":"Heaven - 4"
+},
+{
+    "name":"Lv.2 Demigod",
+    "hp":1000000000000,
+    "damage":3000000000,
+    "exp":150000000000,
+    "drops":{
+        "Kevin the Cube":1.25,
+        "Mark Cuban":0.04,
+        "Godslayer's Greatsword":3,
+        "Boreas Longsword":0.12,
+        "Superman's Cape":1,
+        "Nothing":94.59
+    },
+    "zone":"Heaven - 5"
+},
+{
+    "name":"Lv.3 Demigod",
+    "hp":2500000000000,
+    "damage":15000000000,
+    "exp":300000000000,
+    "drops":{
+        "Superman's Cape":8,
+        "Face Mask":1.5,
+        "Sneakers":0.08,
+        "Mark Cuban":1,
+        "Sunken Buckler":0.0095,
+        "Kishar Greatsword":5,
+        "Cheese":0.03,
+        "Nothing":84.3805
+    },
+    "zone":"Heaven - 6"
+},
+{
+    "name":"Lv.1 God",
+    "hp":6000000000000,
+    "damage":100000000000,
+    "exp":1000000000000,
+    "drops":{
+        "Sneakers":0.98,
+        "Sunken Buckler":0.097,
+        "Cheese":0.58,
+        "Nothing":98.343
+    },
+    "zone":"Heaven - 7"
+},
+{
+    "name":"Lv.2 God",
+    "hp":25000000000000,
+    "damage":300000000000,
+    "exp":2500000000000,
+    "drops":{
+        "Snakeskin Shield":1,
+        "Dagger of Dire Hatred":1.43,
+        "Halberdier Armor":2,
+        "The Consumed":0.25,
+        "Roman Shield":0.56,
+        "Propeller Hat":0.39,
+        "Kubikiribocho":0.0073,
+        "Elon Musk":0.0041,
+        "Forgotten Life Armor":0.0014,
+        "Nothing":94.3572
+    },
+    "zone":"Heaven - 8"
+},
+{
+    "name":"Lv.3 God",
+    "hp":100000000000000,
+    "damage":1000000000000,
+    "exp":7500000000000,
+    "drops":{
+        "Forgotten Life Armor":0.23,
+        "Kubikiribocho":0.47,
+        "Elon Musk":0.7,
+        "Nothing":98.6
+    },
+    "zone":"Heaven - 9"
+},
+{
+    "name":"Zeus, God of Gods",
+    "hp":1000000000000000,
+    "damage":15000000000000,
+    "exp":150000000000000,
+    "drops":{
+        "Perfect Shield":34,
+        "The Super Destroyer":33.5,
+        "Celestial Moon Armor":32.5
+    },
+    "zone":"Heaven - 10"
+},
+{
+    "name":"Oryx the Mad God",
+    "hp":15000000000000000,
+    "damage":250000000000000,
+    "exp":5000000000000000,
+    "drops":{
+        "The Path's Defender":2,
+        "Khan Shield":0.46,
+        "Chopsticks":1.75,
+        "Overseer Armor":2.5,
+        "Nothing":93.29
+    },
+    "zone":"Your Basement - 1"
+},
+{
+    "name":"Cthulhu",
+    "hp":1000000000000000000,
+    "damage":25000000000000000,
+    "exp":200000000000000000,
+    "drops":{
+        "Ankh Shield":2,
+        "Shield of Cthulhu":0.25,
+        "The Catalyst":0.95,
+        "Dominus Empyreus":1.35,
+        "Nothing":95.45
+    },
+    "zone":"Your Basement - 2"
+},
+{
+    "name":"PortABoi the Killer",
+    "hp":30000000000000000000,
+    "damage":750000000000000000,
+    "exp":25000000000000000000,
+    "drops":{
+        "Crystal Shield":2.5,
+        "Shield of Flowing Clarity":0.09,
+        "Wrench":2,
+        "Universe Splitter":0.12,
+        "Empyrean Armor":2.25,
+        "Ultimate Armor":0.075,
+        "Nothing":92.965
+    },
+    "zone":"Your Basement - 3"
+},
+{
+    "name":"nacker",
+    "hp":1000000000000000000000,
+    "damage":50000000000000000000,
+    "exp":500000000000000000000,
+    "drops":{
+        "nacker's Scythe":1.25,
+        "nacker's Shield":2,
+        "nacker's Armor":1,
+        "Nothing":95.75
+    },
+    "zone":"Your Basement - 4"
+},
+{
+    "name":"Bob",
+    "hp":50000000000000000000000,
+    "damage":1000000000000000000000,
+    "exp":100000000000000000000000,
+    "drops":{
+        "Twig":0.79,
+        "Pillow":1,
+        "T-Shirt":0.83,
+        "Nothing":97.38
+    },
+    "zone":"Your Basement - 5"
+}
+]

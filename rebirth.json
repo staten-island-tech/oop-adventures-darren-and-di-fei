@@ -1,0 +1,232 @@
+[{
+    "name":"Noob Damage 1",
+    "type":"Damage",
+    "price":5,
+    "multiplier":2,
+    "description":"Doubles damage."
+},
+{
+    "name":"Noob Damage 2",
+    "type":"Damage",
+    "price":100,
+    "multiplier":2,
+    "description":"Doubles damage."
+},
+{
+    "name":"Noob Damage 3",
+    "type":"Damage",
+    "price":5000,
+    "multiplier":2,
+    "description":"Doubles damage."
+},
+{
+    "name":"Noob HP 1",
+    "type":"HP",
+    "price":5,
+    "multiplier":2,
+    "description":"Doubles HP of armor."
+},
+{
+    "name":"Noob HP 2",
+    "type":"HP",
+    "price":100,
+    "multiplier":2,
+    "description":"Doubles HP of armor."
+},
+{
+    "name":"Noob HP 3",
+    "type":"HP",
+    "price":5000,
+    "multiplier":2,
+    "description":"Doubles HP of armor."
+},
+{
+    "name":"Noob Defense 1",
+    "type":"Defense",
+    "price":5,
+    "multiplier":2,
+    "description":"Doubles defense."
+},
+{
+    "name":"Noob Defense 2",
+    "type":"Defense",
+    "price":100,
+    "multiplier":2,
+    "description":"Doubles defense."
+},
+{
+    "name":"Noob Defense 3",
+    "type":"Defense",
+    "price":5000,
+    "multiplier":2,
+    "description":"Doubles defense."
+},
+{
+    "name":"Noob Experience 1",
+    "type":"Experience",
+    "price":5,
+    "multiplier":2,
+    "description":"Doubles experience gain."
+},
+{
+    "name":"Noob Experience 2",
+    "type":"Experience",
+    "price":100,
+    "multiplier":2,
+    "description":"Doubles experience gain."
+},
+{
+    "name":"Noob Experience 3",
+    "type":"Experience",
+    "price":5000,
+    "multiplier":2,
+    "description":"Doubles experience gain."
+},
+{
+    "name":"Noob RP 1",
+    "type":"Rebirth Points",
+    "price":5000,
+    "multiplier":2,
+    "description":"Doubles rebirth point gain."
+},
+{
+    "name":"Advanced Damage 1",
+    "type":"Damage",
+    "price":1000000,
+    "multiplier":1.5,
+    "description":"Increase damage by 50%."
+},
+{
+    "name":"Advanced HP 1",
+    "type":"HP",
+    "price":10000000,
+    "multiplier":1.5,
+    "description":"Increase HP of armor by 50%."
+},
+{
+    "name":"Advanced Defense 1",
+    "type":"Defense",
+    "price":50000000,
+    "multiplier":1.5,
+    "description":"Increase defense by 50%."
+},
+{
+    "name":"Expert Damage 1",
+    "type":"Damage",
+    "price":50000000000,
+    "multiplier":1.75,
+    "description":"Increase damage by 75%."
+},
+{
+    "name":"Expert HP 1",
+    "type":"HP",
+    "price":50000000000,
+    "multiplier":1.75,
+    "description":"Increase HP of armor by 75%."
+},
+{
+    "name":"Expert Defense 1",
+    "type":"Defense",
+    "price":50000000000,
+    "multiplier":1.75,
+    "description":"Increase defense by 75%."
+},
+{
+    "name":"Godly Damage 1",
+    "type":"Damage",
+    "price":1000000000000,
+    "multiplier":3,
+    "description":"Triples damage."
+},
+{
+    "name":"Godly HP 1",
+    "type":"HP",
+    "price":1000000000000,
+    "multiplier":3,
+    "description":"Triples HP of armor."
+},
+{
+    "name":"Godly Defense 1",
+    "type":"Defense",
+    "price":1000000000000,
+    "multiplier":3,
+    "description":"Triples defense."
+},
+{
+    "name":"Master Damage 1",
+    "type":"Damage",
+    "price":100000000000000,
+    "multiplier":2,
+    "description":"Doubles damage."
+},
+{
+    "name":"Master Damage 2",
+    "type":"Damage",
+    "price":35000000000000000,
+    "multiplier":2,
+    "description":"Doubles damage."
+},
+{
+    "name":"Master Damage 3",
+    "type":"Damage",
+    "price":25000000000000000000,
+    "multiplier":2,
+    "description":"Doubles damage."
+},
+{
+    "name":"Master HP 1",
+    "type":"HP",
+    "price":100000000000000,
+    "multiplier":2,
+    "description":"Doubles HP of armor."
+},
+{
+    "name":"Master HP 2",
+    "type":"HP",
+    "price":35000000000000000,
+    "multiplier":2,
+    "description":"Doubles HP of armor."
+},
+{
+    "name":"Master HP 3",
+    "type":"HP",
+    "price":25000000000000000000,
+    "multiplier":2,
+    "description":"Doubles HP of armor."
+},
+{
+    "name":"Master Defense 1",
+    "type":"Defense",
+    "price":100000000000000,
+    "multiplier":2,
+    "description":"Doubles defense."
+},
+{
+    "name":"Master Defense 2",
+    "type":"Defense",
+    "price":35000000000000000,
+    "multiplier":2,
+    "description":"Doubles defense."
+},
+{
+    "name":"Master Defense 3",
+    "type":"Defense",
+    "price":25000000000000000000,
+    "multiplier":2,
+    "description":"Doubles defense."
+},
+{
+    "name":"Master RP 1",
+    "type":"Rebirth Points",
+    "price":35000000000000000,
+    "multiplier":2.5,
+    "description":"Increase rebirth point gain by 150%."
+},
+{
+    "name":"Master Experience 1",
+    "type":"Experience",
+    "price":35000000000000000,
+    "multiplier":2.5,
+    "description":"Increase experience point gain by 150%."
+}
+]
