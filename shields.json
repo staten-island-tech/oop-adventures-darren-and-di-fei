@@ -1,0 +1,165 @@
+[{
+    "name":"Starter Shield",
+    "defense":2
+},
+{
+    "name":"Notebook",
+    "defense":10
+},
+{
+    "name":"Textbook",
+    "defense":25
+},
+{
+    "name":"2x4",
+    "defense":75
+},
+{
+    "name":"Trash Can Lid",
+    "defense":125
+},
+{
+    "name":"Buckler",
+    "defense":250
+},
+{
+    "name":"Round Shield",
+    "defense":400
+},
+{
+    "name":"Heater Shield",
+    "defense":650
+},
+{
+    "name":"Pavise",
+    "defense":1000
+},
+{
+    "name":"The Shield",
+    "defense":1500
+},
+{
+    "name":"Umbrella",
+    "defense":2500
+},
+{
+    "name":"Owner Door",
+    "defense":4000
+},
+{
+    "name":"Steel Shield",
+    "defense":10000
+},
+{
+    "name":"Car",
+    "defense":17500
+},
+{
+    "name":"Mithril Shield",
+    "defense":30000
+},
+{
+    "name":"Cinder Block",
+    "defense":50000
+},
+{
+    "name":"Blue Sapphire Shield",
+    "defense":72700
+},
+{
+    "name":"Wall",
+    "defense":100000
+},
+{
+    "name":"Nokia",
+    "defense":200000
+},
+{
+    "name":"Keyboard",
+    "defense":500000
+},
+{
+    "name":"Master Ball",
+    "defense":1000000
+},
+{
+    "name":"Adamantine Shield",
+    "defense":2500000
+},
+{
+    "name":"Vibranium Shield",
+    "defense":7500000
+},
+{
+    "name":"Neutron Shield",
+    "defense":25000000
+},
+{
+    "name":"Steel Chair",
+    "defense":100000000
+},
+{
+    "name":"Pie",
+    "defense":314159265
+},
+{
+    "name":"Kevin the Cube",
+    "defense":1000000000
+},
+{
+    "name":"Mark Cuban",
+    "defense":5000000000
+},
+{
+    "name":"Sunken Buckler",
+    "defense":20000000000
+},
+{
+    "name":"Snakeskin Shield",
+    "defense":50000000000
+},
+{
+    "name":"Roman Shield",
+    "defense":100000000000
+},
+{
+    "name":"Elon Musk",
+    "defense":205600000000
+},
+{
+    "name":"Perfect Shield",
+    "defense":750000000000
+},
+{
+    "name":"The Path's Defender",
+    "defense":2500000000000
+},
+{
+    "name":"Khan Shield",
+    "defense":12500000000000
+},
+{
+    "name":"Ankh Shield",
+    "defense":50000000000000
+},
+{
+    "name":"Shield of Cthulhu",
+    "defense":250000000000000
+},
+{
+    "name":"Crystal Shield",
+    "defense":1000000000000000
+},
+{
+    "name":"Shield of Flowing Clarity",
+    "defense":10000000000000000
+},
+{
+    "name":"nacker's Shield",
+    "defense":35000000000000000
+},
+{
+    "name":"Pillow",
+    "defense":100000000000000000
+}
+]

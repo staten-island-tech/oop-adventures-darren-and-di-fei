@@ -1,0 +1,206 @@
+[{
+    "name":"Starter Sword",
+    "damage":1,
+    "turns":1
+},
+{
+    "name":"Sharpened Pencil",
+    "damage":3,
+    "turns":1
+},
+{
+    "name":"Dull Knife",
+    "damage":10,
+    "turns":1
+},
+{
+    "name":"Razor Blade",
+    "damage":15,
+    "turns":1
+},
+{
+    "name":"Wooden Club",
+    "damage":50,
+    "turns":2
+},
+{
+    "name":"Kitchen Knife",
+    "damage":50,
+    "turns":1
+},
+{
+    "name":"Chainsaw",
+    "damage":150,
+    "turns":2
+},
+{
+    "name":"Claymore",
+    "damage":500,
+    "turns":2
+},
+{
+    "name":"Netherite Sword",
+    "damage":1000,
+    "turns":2
+},
+{
+    "name":"Dimmadagger",
+    "damage":1000,
+    "turns":1
+},
+{
+    "name":"Katana",
+    "damage":3000,
+    "turns":1
+},
+{
+    "name":"Master's Dagger",
+    "damage":5000,
+    "turns":1
+},
+{
+    "name":"Tree",
+    "damage":25000,
+    "turns":2
+},
+{
+    "name":"Baby",
+    "damage":50000,
+    "turns":2
+},
+{
+    "name":"Obsidian Greatsword",
+    "damage":100000,
+    "turns":2
+},
+{
+    "name":"Fish",
+    "damage":72727,
+    "turns":1
+},
+{
+    "name":"Big Rock",
+    "damage":207000,
+    "turns":2
+},
+{
+    "name":"Your Mom",
+    "damage":300000,
+    "turns":2
+},
+{
+    "name":"Death Scythe",
+    "damage":500000,
+    "turns":2
+},
+{
+    "name":"Gold Play Button",
+    "damage":1000000,
+    "turns":1
+},
+{
+    "name":"Comically Large Spoon",
+    "damage":4000000,
+    "turns":2
+},
+{
+    "name":"Adranos Blade",
+    "damage":10000000,
+    "turns":1
+},
+{
+    "name":"Angela",
+    "damage":50000000,
+    "turns":2
+},
+{
+    "name":"Brass Knuckles",
+    "damage":100000000,
+    "turns":1
+},
+{
+    "name":"Mr. Beast",
+    "damage":157247074,
+    "turns":1
+},
+{
+    "name":"Lightsaber",
+    "damage":300000000,
+    "turns":1
+},
+{
+    "name":"Excalibur",
+    "damage":1000000000,
+    "turns":2
+},
+{
+    "name":"Godslayer's Greatsword",
+    "damage":4000000000,
+    "turns":2
+},
+{
+    "name":"Boreas Longsword",
+    "damage":10000000000,
+    "turns":2
+},
+{
+    "name":"Kishar Greatsword",
+    "damage":25000000000,
+    "turns":2
+},
+{
+    "name":"Cheese",
+    "damage":50000000000,
+    "turns":1
+},
+{
+    "name":"Dagger of Dire Hatred",
+    "damage":200000000000,
+    "turns":1
+},
+{
+    "name":"The Consumed",
+    "damage":1000000000000,
+    "turns":1
+},
+{
+    "name":"Kubikiribocho",
+    "damage":8000000000000,
+    "turns":2
+},
+{
+    "name":"The Super Destroyer",
+    "damage":60000000000000,
+    "turns":2
+},
+{
+    "name":"Chopsticks",
+    "damage":100000000000000,
+    "turns":1
+},
+{
+    "name":"The Catalyst",
+    "damage":1000000000000000,
+    "turns":1
+},
+{
+    "name":"Wrench",
+    "damage":40000000000000000,
+    "turns":2
+},
+{
+    "name":"Universe Splitter",
+    "damage":50000000000000000,
+    "turns":1
+},
+{
+    "name":"nacker's Scythe",
+    "damage":300000000000000000,
+    "turns":2
+},
+{
+    "name":"Twig",
+    "damage":1000000000000000000,
+    "turns":1
+}
+]
